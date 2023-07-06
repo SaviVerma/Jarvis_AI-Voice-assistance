@@ -42,7 +42,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 **Savi Verma**
 
-- Github: [@saviverma26](https://github.com/SaviVerma/)
+- Github: [@SaviVerma](https://github.com/SaviVerma/)
 
 ## 📌Show your support
 
